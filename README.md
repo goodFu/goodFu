@@ -1,7 +1,3 @@
-<!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
-<br>
-
 <!-- 标签图 -->
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -14,6 +10,11 @@
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23E44D27?style=flat-square&logo=TypeScript&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node.js-%232c3e50?style=flat-square&logo=Node.js)
+
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<br>
+
 
 💪 正在学习: 
 
